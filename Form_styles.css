@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.container {
+    justify-content: center;
+    width: 70%;
+    margin-bottom: 27px;
+    /* padding: 20px; */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+
+.heading {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    color: #333;
+}
